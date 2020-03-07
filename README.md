@@ -11,6 +11,7 @@ scipy = 1.2.2
 Pillow = 3.3.1   
 
 ## gen data
+- training and test dataset are available [here](https://drive.google.com/open?id=1PMcy0J6NEpYb8AvDohw_0ceBIsjdRa8W)
 - gen training data
   run 'aug_train.m' in './data/train'
 - gen test data
