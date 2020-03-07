@@ -14,10 +14,10 @@ Pillow = 3.3.1
 - training and test dataset are available [here](https://drive.google.com/open?id=1PMcy0J6NEpYb8AvDohw_0ceBIsjdRa8W)
 - checkpoint is available [here](https://drive.google.com/drive/folders/1VprfcEtB7OpabL3g5NT5KjH_YCZNxK2q?usp=sharing)
 ```shell
-- gen training data
-  run 'aug_train.m' in './data/train'
-- gen test data
-  run 'aug_test.m' in './data/test'
+gen training data
+#run 'aug_train.m' in './data/train'
+gen test data
+#run 'aug_test.m' in './data/test'
   ```
 
 ## file list
