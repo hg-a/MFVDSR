@@ -11,10 +11,10 @@ scipy = 1.2.2
 Pillow = 3.3.1   
 
 ## generate data
-training and test dataset are available [here](https://drive.google.com/open?id=1PMcy0J6NEpYb8AvDohw_0ceBIsjdRa8W)
+training and test dataset are available [here](https://drive.google.com/open?id=1PMcy0J6NEpYb8AvDohw_0ceBIsjdRa8W)   
 checkpoint is available [here](https://drive.google.com/drive/folders/1VprfcEtB7OpabL3g5NT5KjH_YCZNxK2q?usp=sharing)
 
-put 91, 291 folder in './data/train'
+put 91, 291 folder in './data/train'   
 put Set5, Set14, B100, Urban100 folder in './data/test'
 
 ### generate training data
